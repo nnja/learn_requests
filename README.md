@@ -20,7 +20,7 @@ Lastly, don't click through the links. Those are meant to be read and researched
 ### Pre-requisites
 - Python3 Installed https://realpython.com/installing-python/
 - Visual Studio Code Installed https://code.visualstudio.com/docs/languages/python?WT.mc_id=winfosec-cast-ninaz
-- [Python Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python?WT.mc_id=winfosec-cast-ninaz)
+- [Python Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - *(Optional)* install the [`requests`](https://github.com/requests/requests) library. If you don’t know how, I’ll cover the topic in the first few minutes of the session.
 
 ## Checking pre-requisites
