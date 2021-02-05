@@ -19,8 +19,8 @@ Lastly, don't click through the links. Those are meant to be read and researched
 
 ### Pre-requisites
 - Python3 Installed https://realpython.com/installing-python/
-- Visual Studio Code Installed https://code.visualstudio.com/docs/languages/python?WT.mc_id=winfosec-cast-ninaz
-- [Python Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python?WT.mc_id=winfosec-cast-ninaz)
+- Visual Studio Code Installed https://code.visualstudio.com/docs/languages/python?WT.mc_id=python-0000-ninaz
+- [Python Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python%3FWT.mc_id%3Dwinfosec-cast-ninaz&WT.mc_id=python-0000-ninaz)
 - *(Optional)* install the [`requests`](https://github.com/requests/requests) library. If you don’t know how, I’ll cover the topic in the first few minutes of the session.
 
 ## Checking pre-requisites
@@ -41,7 +41,7 @@ $ code
 
 # Step 1: Open Visual Studio Code
 
-[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=winfosec-cast-ninaz) is a lightweight cross platform editor from Microsoft. It works seamlessly on Linux, Mac, and Windows. It's also a great option for Python, which is why I'll be using it for the rest of the exercises.
+[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=python-0000-ninaz) is a lightweight cross platform editor from Microsoft. It works seamlessly on Linux, Mac, and Windows. It's also a great option for Python, which is why I'll be using it for the rest of the exercises.
 
 If it's not already open from the previous step, you can open it by typing:
 
